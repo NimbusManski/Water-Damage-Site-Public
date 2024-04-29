@@ -16,6 +16,12 @@ export default function ContactUs() {
   const handleSubmit = async (event) => {
     event.preventDefault();
 
+    const isValidEmail = validator.isEmail(formData.email);
+    if (!isValidEmail) {
+      alert("Please check your form data and try again");
+      return;
+    }
+
     try {
       const response = await fetch(
         `${import.meta.env.VITE_SERVER_URL}/send-email`,
