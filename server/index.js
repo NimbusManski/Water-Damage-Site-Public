@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(
   cors({
     credentials: true,
-    origin: "https://water-damage-site-public-api.onrender.com",
+    origin: "https://water-damage-site-public.onrender.com",
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["content-type", "Authorization"],
   })
