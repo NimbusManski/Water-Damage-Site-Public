@@ -7,7 +7,7 @@ export default function Hero() {
         <Row className="justify-content-center align-items-center vh-100">
           <Col md={8} className="text-center hero-col-custom">
             <h1 className="display-3">
-            Water Damage Mitigation Site</h1>
+            American Mitigation</h1>
             <div className="lead-wrapper">
               <span className="lead"></span>
               <div className="button-wrapper mt-3">

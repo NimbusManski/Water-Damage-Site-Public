@@ -12,7 +12,7 @@ export default function Footer(){
       <Container>
         <Row className="align-items-center">
           <Col md={6} className="text-md-left text-center">
-            <img src="images/logo.png" alt="North Texas Contractor Services" className="footer-logo" />
+            <img src="images/logo.png" alt="American Mitigation" className="footer-logo" />
           </Col>
           <Col md={6} className="text-md-right text-center">
             <Button variant="link" onClick={handleBackToTop} className="btn-back-to-top">
@@ -23,7 +23,7 @@ export default function Footer(){
         <Row>
           <Col className="text-center">
             <p className="copyright">
-              &copy; {new Date().getFullYear()} Water Damage Mitigation Site. All rights reserved.
+              &copy; {new Date().getFullYear()} American Mitigation. All rights reserved.
             </p>
           </Col>
         </Row>

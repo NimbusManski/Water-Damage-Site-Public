@@ -154,6 +154,7 @@ body {
   border-radius: 10px;
   border: none;
   color: white;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .attr-btn-custom:hover {
