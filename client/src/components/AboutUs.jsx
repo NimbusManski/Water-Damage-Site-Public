@@ -12,13 +12,13 @@ export default function AboutUs() {
             <Card className="about-us-card rounded">
               <div className="about-us-content">
                 <p>
-                  Founded in 2020, Water Damage Mitigation Company brings together a
+                  Founded in 2020, American Mitigation brings together a
                   team of experts with over 30 years of collective experience in
                   the industry. Our journey began with a vision to provide
                   unparalleled service and support to homeowners and businesses
                   facing water damage emergencies.
                 
-                  At Water Damage Mitigation Company, we understand the devastating impact water damage can
+                  At American Mitigation, we understand the devastating impact water damage can
                   have on properties and lives. That's why we are committed to
                   offering swift and effective solutions to mitigate the damage
                   and restore peace of mind to our clients.
@@ -34,11 +34,11 @@ export default function AboutUs() {
                 </p>
                 <p>
                  
-                  Beyond our technical expertise, what truly sets Water Damage Mitigation Company apart is
+                  Beyond our technical expertise, what truly sets American Mitigation apart is
                   our genuine care for our clients. We treat every situation
                   with the utmost urgency and compassion, guiding you through
                   every step of the mitigation and restoration journey.
-                  As a trusted partner in water damage mitigation, Water Damage Mitigation Company is here
+                  As a trusted partner in water damage mitigation, American Mitigation is here
                   to support you whenever you need us. Let us help you navigate
                   through the challenges of water damage and restore your
                   property to its pre-damaged state.
